@@ -62,6 +62,10 @@ Exact seeds used in the paper:
 
 Default knobs match the manuscript: YOLOv8m, confidence `0.5`, `M=8`, area gate `1.5%`, VLAD-64, `k_pool=40`, segment length `n=6`, Lin–Liang 22-attack set.
 
+## Repository
+
+https://github.com/FreedomLinGang/Coverless-CIS-Geo-VLAD
+
 ## Citation
 
 If you use this code, please cite the TMM paper (update volume/pages after publication).
