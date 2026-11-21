@@ -1,0 +1,11 @@
+numpy>=1.23
+scipy>=1.9
+opencv-python>=4.7
+Pillow>=9.0
+torch>=2.0
+torchvision>=0.15
+ultralytics>=8.0
+tqdm>=4.64
+scikit-learn>=1.2
+matplotlib>=3.6
+pyyaml>=6.0

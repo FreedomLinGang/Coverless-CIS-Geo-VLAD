@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+.idea/
+.vscode/
+
+# large / local artifacts
+cache/
+results/
+logs/
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.npy
+*.npz
+*.h5
+*.log
+*.pdf
+*.zip
+*.7z
+
+# datasets (never commit)
+VOCdevkit/
+coco/
+datasets/
+data/raw/
